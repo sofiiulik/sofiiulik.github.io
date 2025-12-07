@@ -1,0 +1,36 @@
+body {
+    background-color: #e2e2e2;
+    margin: 0;
+    padding: 0;
+    width: 100wv;
+    height: 100hv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: "Arial Black", Arial, sans-serif;
+    font-weight: 900;
+    color: #8d8d8d;
+    text-shadow: 1px 2px 4px rgba(0,0,0,0.2);
+}
+
+p {
+    color: inherit;
+    font-family: "Arial Black", Arial, sans-serif;
+    font-weight: 900;
+    color: #6d6d6d;
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    font-size: 1.6rem;
+}
+
